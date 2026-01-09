@@ -4,7 +4,7 @@
 **Raw Test Results**
 
 This folder contains the **raw fingerprinting test outputs** used in the ScrapeOps benchmark article:
-[Proxy API Browser Fingerprinting Benchmarks](https://scrapeops.io/blog/scraping-tools-fingerprinting-benchmark/)
+[Proxy API Browser Fingerprinting Benchmarks](https://scrapeops.io/proxy-providers/proxy-api-browser-fingerprint-benchmark/)
 
 The purpose of this repository is **transparency**. These files are the source data behind all scores, tables, and conclusions.
 
@@ -118,6 +118,6 @@ No provider was notified or tuned prior to testing.
 
 ## Links
 
-* [Benchmark article](https://scrapeops.io/blog/scraping-tools-fingerprinting-benchmark/)
+* [Benchmark article](https://scrapeops.io/proxy-providers/proxy-api-browser-fingerprint-benchmark/)
 * [ScrapeOps](https://scrapeops.io/)
 * [ScrapeOps on GitHub](https://github.com/ScrapeOps)

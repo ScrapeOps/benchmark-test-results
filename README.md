@@ -21,7 +21,7 @@ We believe benchmark claims should be verifiable. By publishing raw outputs:
 
 | Benchmark | Description | Article |
 |-----------|-------------|---------|
-| [Proxy API Browser Fingerprinting](./Proxy%20API%20Browser%20Fingerprint%20Benchmark/) | Evaluates browser realism and anti-detection capabilities of proxy API providers | [Read Article](https://scrapeops.io/blog/scraping-tools-fingerprinting-benchmark/) |
+| [Proxy API Browser Fingerprinting](./Proxy%20API%20Browser%20Fingerprint%20Benchmark/) | Evaluates browser realism and anti-detection capabilities of proxy API providers | [Read Article](https://scrapeops.io/proxy-providers/proxy-api-browser-fingerprint-benchmark/) |
 
 ---
 
